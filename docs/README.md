@@ -1,1 +1,1 @@
-# My-New-src.main.java.blockchain.core.Blockchain
+# My-New-Blockchain
